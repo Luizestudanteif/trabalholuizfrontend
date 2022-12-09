@@ -1,0 +1,409 @@
+.A{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 155vh;
+	background-color: #C72947;
+	font-family: sans-serif;
+	color: white
+}
+.B1{
+	width: 100%;
+	height: 40vh;
+	background-color: #C72947;
+}
+.C1{
+	display: flex;
+	width: 100%;
+	height: 10vh;
+	background-color: #C72947;
+}
+.D1{
+	width: 50%;
+	height: 100%;
+	background-color: #C72947;
+}
+.E1{
+	width: 40%;
+	height: 40%;
+	background-color: #C72947;
+	margin-left: 7vh;
+	margin-top: 2vh;
+}
+.sitenome{
+	color: white;
+}
+.logodosite{
+	width: 5vh;
+	height: 5vh;
+}
+.D2{
+	width: 50%;
+	height: 90%;
+	background-color: #C72947;
+}
+.E2{
+	display: flex;
+	width: 40%;
+	height: 5vh;
+	background-color: #C72947;
+	margin-left: 54vh;
+	margin-top: 1vh;
+}
+.E-e1{
+	width: 13%;
+	height: 100%;
+	background-color: #C72947;
+	margin-left: 75px;
+}
+.ico1{
+	width: 100%;
+	height: 100%;
+}
+.E-e2{
+	width: 13%;
+	height: 100%;
+	background-color: #C72947;
+	margin-left: 45px;
+}
+.ico2{
+	width: 100%;
+	height: 100%;
+}
+.E-e3{
+	width: 13%;
+	height: 100%;
+	background-color: #C72947;
+	margin-left: 45px;
+}
+.ico3{
+	width: 100%;
+	height: 100%;
+}
+.C2{
+	width: 100%;
+	height: 25vh;
+	background-color: #C72947;
+}
+.D3{
+	display: flex;
+	width: 93.5%;
+	height: 25vh;
+	background-color: #C72947;
+	margin-left: 7vh;
+}
+.banner1{
+	width: 12%;
+	height: 80%;
+	margin-left: 25vh;
+}
+.banner2{
+	width: 12%;
+	height: 80%;
+	margin-left: 10vh;
+}
+.banner3{
+	width: 12%;
+	height: 80%;
+	margin-left: 10vh;
+}
+.banner4{
+	width: 12%;
+	height: 80%;
+	margin-left: 10vh;
+}
+.B2{
+	display: flex;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+.C3{
+	width: 30%;
+	height: 100%;
+	background-color: #C72947;
+}
+.D4{
+	width: 75%;
+	height: 98%;
+	background-color: white;
+	margin-left: 7vh;
+	margin-top: 2vh;
+}
+.poster{
+	width: 100%;
+	height: 50%;
+}	
+.C4{
+	width: 70%;
+	height: 100%;
+	background-color: white;
+}
+.D5{
+	display: flex;
+	width: 100%;
+	height: 46%;
+	background-color: white;
+}
+.E3{
+	width: 45%;
+	height: 100%;
+	background-color: #C72947;
+	font-size: 20px;
+}
+.F1{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.F2{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ; 
+	margin-top: 3vh;
+}
+.F3{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 3vh;
+}
+.F4{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 3vh;
+}
+.F5{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 3vh;
+}
+.F6{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 3vh;
+}
+.F7{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 3vh;}
+.F8{
+	width: 97%;
+	height: 3.5vh;
+	background-color: ;
+	margin-top: 3vh;
+}
+.E4{
+	width: 55%;
+	height: 100%;
+	background-color: #C72947;
+}
+.F9{
+	width: 90%;
+	height: 88%;
+	background-color: aquamarine;
+	margin-top: 2vh;
+	margin-left: 1.5vh;
+}
+.azul{
+	width: 100%;
+	height: 100%;
+}
+.D6{
+	display: flex;
+	width: 100%;
+	height: 54%;
+	background-color: white;
+}
+.E5{
+	width: 30%;
+	height: 100%;
+	background-color: #C72947;
+}
+.retangulorosa{
+	width: 100%;
+	height: auto;
+}
+.F10{
+	width: 90%;
+	height: 30%;
+	background-color: #C72947;
+}
+.F11{
+	width: 90%;
+	height: 30%;
+	background-color: #C72947;
+	margin-top: 3.25vh;
+}
+.F12{
+	width: 90%;
+	height: 30%;
+	background-color: #C72947;
+	margin-top: 3.25vh;
+}
+.E6{
+	width: 70%;
+	height: 100%;
+	background-color: #C72947;
+}
+.F13{
+	width: 97%;
+	height: 30%;
+	background-color: #C72947;
+}
+.G1{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.G2{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.G3{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.F14{
+	width: 97%;
+	height: 30%;
+	background-color: #C72947;
+	margin-top: 3.25vh;
+}
+.G4{
+	width: 97%;
+	height: 3vh;
+	background-color:;
+	margin-top: 2vh;
+}
+.G5{
+	width: 97%;
+	height: 3vh;
+	background-color:;
+	margin-top: 2vh;
+}
+.G6{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.F15{
+	width: 97%;
+	height: 30%;
+	background-color: #C72947;
+	margin-top: 3.25vh;
+}
+.G7{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.G8{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+.G9{
+	width: 97%;
+	height: 3vh;
+	background-color: ;
+	margin-top: 2vh;
+}
+
+
+@media (max-width: 760px) {
+	.B1{
+		width: 100%;
+		height: 20%;
+	
+	}
+}
+@media (max-width: 760px) {
+	.C1, .C2{
+		width: 100%;
+		height: 
+	}
+}
+@media (max-width: 760px) {
+	.E2, .E1{
+		width: 50%;
+		height: 40%
+	}
+	.E-e1{
+		margin-left: 0vh;
+	}
+}
+@media (max-width: 760px){
+	.E1, .E2{
+		width: 50%;
+		height: 50%;
+
+	}
+}
+@media (max-width: 760px) {
+	.C3{
+		width: 0%;
+	}
+}
+@media  (max-width: 760px) {
+	.C4{
+		width: 100%;
+	}
+}
+@media (max-width: 760px) {
+	.D5{
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+}
+@media (max-width: 760px) {
+	.E3{
+		width: 100%;
+		height: 30%
+	}
+}
+@media (max-width: 760px) {
+	.E4{
+		width: 100%;
+		height: 70%
+	}
+}
+@media( max-width: 760px) {
+	.E6{
+		width: 70%;
+		height: 35vh;
+	}
+	.E5{
+		width: 30%;
+		height: 35vh;
+	}
+	.D6{
+		width: 100%;
+		height: 35vh;
+	}
+}
+@media (max-width: 760px){
+	.banner1, .banner2, .banner3, .banner4{
+		width: 10vh;
+		height: 10vh;
+		margin-left: 2vh;
+	}
+	.ico1{
+		width: 2vh;
+		height: 2vh;
+	}
+}
